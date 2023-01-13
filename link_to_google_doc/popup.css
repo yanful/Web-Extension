@@ -1,0 +1,13 @@
+body {
+  width: 300px;
+  margin: 0;
+  font-size: 1.3rem;
+}
+.popup-container{
+  padding: 5% 5%;
+}
+
+.icon{
+  width:30px;
+}
+

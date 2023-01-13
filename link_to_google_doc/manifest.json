@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Link to google doc/slides",
+    "description": "Link to google doc/slides",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "docs.png"
+    }
+}

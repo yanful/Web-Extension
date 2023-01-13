@@ -1,0 +1,1 @@
+var parentEl = document.getElementById("myimg").parentElement;

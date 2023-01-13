@@ -1,7 +1,7 @@
 {
-    "manifest_version": 3,
-    "name": "e-nator!",
-    "description": "e-nator",
+    "manifest_version": 1.0,
+    "name": "Hyperlink",
+    "description": "Add hperlink",
     "version": "1.0",
     "action": {
         "default_popup": "popup/popup.html",
