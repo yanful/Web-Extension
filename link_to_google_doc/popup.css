@@ -9,5 +9,11 @@ body {
 
 .icon{
   width:30px;
+  position:relative; 
+  top:10px;
 }
 
+p {
+  font-size: 15px;
+  color:black;
+}
